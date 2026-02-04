@@ -8,4 +8,5 @@
 *.out
 go.work
 go.work.sum
+main.go
 sandbox
